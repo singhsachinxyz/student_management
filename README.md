@@ -1,1 +1,1 @@
-# student_managemet
+# student_management
